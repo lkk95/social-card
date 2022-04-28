@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f2efef;
+  font-family: sans-serif;
+}
+
+header,
+main {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+section {
+  background-color: white;
+  border: 0px solid white;
+  border-radius: 8px;
+  margin: 15px 0px;
+  padding: 10px 0px 0px 10px;
+}
+
+.socialpicture {
+  border: 0px solid white;
+  border-radius: 8px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 14px;
+}
